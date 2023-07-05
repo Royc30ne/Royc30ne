@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Royc30ne's GitHub stats](https://github-readme-stats-git-main-royc30ne.vercel.app/api?username=Royc30ne&show_icons=true&theme=radical)
+
+
 <!--
 **Royc30ne/Royc30ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

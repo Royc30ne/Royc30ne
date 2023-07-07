@@ -12,7 +12,7 @@
             </td>
             <td>
                 <!--右侧内容-->
-                <img src="static/code.png" width=25></img>
+                <img src="static/code-icon/code.png" width=25></img>
                 <HR width="100%" >
                 <div>
                     <img style="margin: 2px;" src="static/code-icon/python.png" width=35></img>

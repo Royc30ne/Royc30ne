@@ -1,9 +1,9 @@
-<center>
-    <font size=100>
-    <- Hola, World! 👋->
-    </font>
-</center>
 <html>
+    <center>
+        <text style="size:200; margin:auto">
+            <- Hola, World! 👋->
+        </text>
+    </center>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td style="width: 300px">
@@ -31,7 +31,6 @@
     </table>
 </html>
 
----
 - 🔭 I’m currently working on ***Federated Learning***
 - 🌱 I’m currently learning ***Convex Optimization***
 - 👯 I’m looking to collaborate on ***php, vue, typescript developers***

@@ -15,9 +15,16 @@
                 <img src="static/code.png" width=25></img>
                 <HR width="100%" >
                 <div>
-                    <img style="margin: 2px;" src="static/python.png" width=35></img>
-                    <img style="margin: 2px;" src="static/java.png" width=35></img>
-                    <img style="margin: 2px;" src="static/tensorflow.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/python.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/java.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/c-lang.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/vue.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/php.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/html5.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/css.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/js.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/ts.png" width=35></img>
+                    <img style="margin: 2px;" src="static/code-icon/tensorflow.png" width=35></img>
                 </div>
             </td>
         </tr>

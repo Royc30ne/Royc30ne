@@ -1,9 +1,9 @@
+<center>
+    <font size=100>
+    <- Hola, World! 👋->
+    </font>
+</center>
 <html>
-    <center>
-        <font size=100>
-        <- Hola, World! 👋->
-        </font>
-    </center>
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
             <td class=main>
@@ -40,7 +40,6 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <style>
-    fill="currentColor"
     /* svg{
         fill: red;
     } */
